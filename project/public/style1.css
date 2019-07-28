@@ -1,0 +1,33 @@
+li {
+	list-style: none;
+
+}
+
+
+ul {
+	display: flex;
+	justify-content: flex-end;
+}
+.nvb_items  {
+	padding: 5px;
+	margin:18px;
+	margin-top:25px;
+	
+
+}
+
+
+
+.logo {
+	font-size: 1.2em;
+}
+
+
+
+.container {
+	margin: 0px !important;
+}
+
+p {
+	color: red ;
+}

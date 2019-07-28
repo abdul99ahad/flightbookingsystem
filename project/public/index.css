@@ -1,0 +1,29 @@
+li {
+	list-style: none;
+}
+ul {
+	display: flex;
+	justify-content: flex-end;
+}
+.nvb_items {
+	padding: 5px;
+	margin:10px;
+}
+
+
+.logo {
+	font-size: 1.2em;
+}
+
+._footer_ {
+	background-color: yellow;
+	padding: 20px;
+}
+
+.container {
+	margin: 0px !important;
+}
+
+p {
+	color: red ;
+}
